@@ -7,7 +7,7 @@ Certain navigation links within the menu might not be set up yet.
 
 ### Navigation Menu
   
-- About Us 
+- [About Us](https://docs.FirstRateRoleplay.com/community/AboutUs.html)
 
 - Ban Appeals
 
@@ -20,8 +20,6 @@ Certain navigation links within the menu might not be set up yet.
 - Document Directory
 
 - Getting Started
-
-- How To Become A Member
 
 - Server Guides
 

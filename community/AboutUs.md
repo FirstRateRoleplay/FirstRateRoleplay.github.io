@@ -1,0 +1,8 @@
+## About First Rate Roleplay™
+First Rate Roleplay™ is an 18+ Roleplaying community that is based out of the Pacific Northwest. With specific influences from Washington, Oregon, and California spiced into the mixture, we create a unique blend of all the best aspects of the PNW to make it feel like home while creating our own lore friendly world. 
+
+Our community is a Realistic Life RP community designed with an intent to focus on creating in-depth characters and storylines, rather than the traditional "Cops & Robbers" style of recycled roleplay that is popular in other servers. We prioritize realistic and engaging storytelling with our policies and gameserver mechanics, while ensuring things remain properly balanced as at the end of the day, this is a video game after all and we are all here to have fun in the end. 
+
+The overall mission and goal of First Rate Roleplay™ is to be a community that changes the landscape of what people conceive of roleplay gaming altogether. We hope to achieve this goal by providing well developed gameservers, with passionate staff & administration behind the scenes who care about roleplay and for the community as a whole. 
+
+It is the ultimate end goal for First Rate Roleplay™ to be known as a community unlike any other in the world. Therefore it is our community’s motto to be "Not Your Average Roleplay Community" and it is our intention to live up to the expectation that our motto insinuates by upholding a better quality of standards than any other community out there.  
