@@ -7,12 +7,20 @@ Certain navigation links within the menu might not be set up yet.
 
 ### Navigation Menu
   
+- About Us 
+
+- Content Creaation & Streaming  
+
+- Community Portal
+
 - Discord Server
 
 - Document Directory
 
 - Server Guides
-  
+
+- Social Media
+
 - Support Tickets
 
 - Terms of Service
