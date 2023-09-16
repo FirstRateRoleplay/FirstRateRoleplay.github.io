@@ -9,7 +9,7 @@ Certain navigation links within the menu might not be set up yet.
   
 - About Us 
 
-- Content Creaation & Streaming  
+- Content Creation
 
 - Community Portal
 
