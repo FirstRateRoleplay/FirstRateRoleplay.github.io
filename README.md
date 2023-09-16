@@ -9,6 +9,8 @@ Certain navigation links within the menu might not be set up yet.
   
 - About Us 
 
+- Ban Appeals
+
 - Content Creation
 
 - Community Portal
@@ -17,6 +19,10 @@ Certain navigation links within the menu might not be set up yet.
 
 - Document Directory
 
+- Getting Started
+
+- How To Become A Member
+
 - Server Guides
 
 - Social Media
@@ -24,3 +30,6 @@ Certain navigation links within the menu might not be set up yet.
 - Support Tickets
 
 - Terms of Service
+
+
+#### © Copyright First Rate Roleplay™
