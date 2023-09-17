@@ -111,12 +111,12 @@ THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMS
 - [7.02: Community Ownership](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#702-community-ownership)
 - [7.03: Entertainment & Fictional Content](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#703-entertainment--fictional-content)
 - [7.04: Privacy Policy](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704-privacy-policy)
-    - [7.04[A]: What We Collect:](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704a-what-we-collect)
-    - [7.04[B]: How We Utilize Your Data & Information](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704b-how-we-utilize-your-data--information)
-    - [7.04[C]:Information Sharing Policy](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704c-information-sharing-policy)
-    - [7.04[D]:Safeguarding & Security](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704d-safeguarding--security)
-    - [7.04[E]:Third-Party Links](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704e-third-party-links)
-    - [7.05: Legal Disputes](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#705-legal-disputes)
+  - [7.04[A]: What We Collect:](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704a-what-we-collect)
+  - [7.04[B]: How We Utilize Your Data & Information](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704b-how-we-utilize-your-data--information)
+  - [7.04[C]:Information Sharing Policy](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704c-information-sharing-policy)
+  - [7.04[D]:Safeguarding & Security](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704d-safeguarding--security)
+  - [7.04[E]:Third-Party Links](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704e-third-party-links)
+- [7.05: Legal Disputes](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#705-legal-disputes)
 
 
 ## (1) Membership Requirements
