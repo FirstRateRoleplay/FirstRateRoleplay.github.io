@@ -20,15 +20,15 @@ THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMS
 
 - [1.05: Expected Activity](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105-expected-activity)
 
-    - [1.05[A]: New Members](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105a-new-members)
+  - [1.05[A]: New Members](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105a-new-members)
 
-    - [1.05[B] Existing Members (30 Days)](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105b-existing-members-30-days)
+  - [1.05[B] Existing Members (30 Days)](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105b-existing-members-30-days)
 
-    - [1.05[C] Existing Members (90 Days)](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105c-existing-members-90-days)
+  - [1.05[C] Existing Members (90 Days)](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105c-existing-members-90-days)
 
-    - [1.05[D] Probationary Membership](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105d-probationary-membership)
+  - [1.05[D] Probationary Membership](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105d-probationary-membership)
 
-    - [1.05[E] Membership End](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105e-membership-end)
+  - [1.05[E] Membership End](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105e-membership-end)
 
 - [1.06: Legally Own Grand Theft Auto V](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#106-legally-own-grand-theft-auto-v)
 
