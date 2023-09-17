@@ -11,17 +11,9 @@ Certain navigation links within the menu might not be set up yet.
 
 - Ban Appeals
 
-- Content Creation
-
-- Document Directory
-
 - Important Links
 
 - Server Guides
-
-- Social Media
-
-- Support Tickets
 
 - Terms of Service
 
