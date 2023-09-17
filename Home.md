@@ -13,13 +13,9 @@ Certain navigation links within the menu might not be set up yet.
 
 - Content Creation
 
-- Community Portal
-
-- Discord Server
-
 - Document Directory
 
-- Getting Started
+- Important Links
 
 - Server Guides
 
