@@ -9,13 +9,15 @@ Certain navigation links within the menu might not be set up yet.
   
 - [About Us](https://docs.FirstRateRoleplay.com/community/AboutUs.html)
 
-- Ban Appeals
+- [Ban Appeals](https://docs.FirstRateRoleplay.com/community/BanAppeals.html)
 
-- Important Links
+- [Document Directory](https://docs.FirstRateRoleplay.com/community/Document-Directory.html)
 
-- Server Guides
+- [Important Links](https://docs.FirstRateRoleplay.com/community/ImportantLinks.html)
 
-- Terms of Service
+- [Server Guides](https://docs.FirstRateRoleplay.com/server-guides/About-Guides.html)
+
+- [Terms of Service](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html)
 
 
 #### © Copyright First Rate Roleplay™
