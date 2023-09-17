@@ -9,7 +9,7 @@ THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMS
 
 
 `© COPYRIGHT 2021-2023 First Rate Roleplay™ ALL RIGHTS RESERVED` 
-### [(1) Membership Requirements](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#1-membership-requirements)
+### [(1) Membership Requirements](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#1-membership-requirements-1)
 
 - [1.01: Age Requirement](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#101-age-requirement)
 
@@ -35,7 +35,7 @@ THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMS
 
 - [1.07: Microphone Requirement](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#107-microphone-requirement)
 
-### [(2) Community Guidelines](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#2-community-guidelines)
+### [(2) Community Guidelines](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#2-community-guidelines-1)
 
 - [2.01: Behavior Expectations](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#201-behavior-expectations)
     - [2.01[A] Respect](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#201a-respect)
@@ -53,74 +53,71 @@ THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMS
 - [2.07: Dual-Clanning Regulations](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#207-dual-clanning-regulations)
 - [2.08: Department Applications](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#208-department-applications)
 
-## (3) Community Structure
-- 3.01: Management
-- 3.02: Administration
-- 3.03: Staff Member
-- 3.04: Staff in Training
-- 3.05: Department Head(s)
-- 3.06: Community Volunteer
-- 3.07: Community Member
-- 3.08: Community Fan
+## [(3) Community Structure](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#3-community-structure-1)
+- [3.01: Management](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#301-management)
+- [3.02: Administration](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#302-administration)
+- [3.03: Staff Member](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#303-staff-member)
+- [3.04: Staff in Training](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#304-staff-in-training)
+- [3.05: Department Head(s)](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#305-department-heads)
+- [3.06: Community Volunteer](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#306-community-voluneer)
+- [3.07: Community Member](307-community-member)
+- [3.08: Community Fan](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#308-community-fan)
 
-## (4) Privacy & Security
-- 4.01: Personal Information
-- 4.02: First Rate RP Assets
-- 4.03: Sensitive Information
-- 4.04: Discord/TS3 Recording
-- 4.05: Exploitation of Bugs
-- 4.06: Gameserver Hacking
-- 4.07: Rival Server Recruiting
-- 4.08: Usage of Unauthorized Crosshairs
+## [(4) Privacy & Security](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#4-privacy--security)
+- [4.01: Personal Information](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#401-personal-information)
+- [4.02: First Rate RP Assets](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#402-first-rate-rp-assets)
+- [4.03: Sensitive Information](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#403-sensitive-information)
+- [4.04: Discord/TS3 Recording](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#404-discord-ts3-recording)
+- [4.05: Exploitation of Bugs](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#405-exploitation-of-bugs)
+- [4.06: Gameserver Hacking](406-gameserver-hacking)
+- [4.07: Rival Server Recruiting](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#407-rival-server-recruiting)
+- [4.08: Usage of Unauthorized Crosshairs](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#408-usage-of-unauthorized-crosshairs)
 
-## (5) Roleplay Regulations
-- 5.01: Stream Sniping
-- 5.02: Metagaming
-- 5.03: Powergaming
-- 5.04: Value of Life
-- 5.06: RDM/VDM
-- 5.07: Fail RP
-- 5.08: Unrealistic Driving
-- 5.09: Combat Logging
-- 5.10: Quality of RP
-- 5.11: Breaking Character
-- 5.12: Force RP
-- 5.13: Rage Quitting
-- 5.14: In-Game Leadership Policies
-- 5.15: Group Size Limits
-    - 5.15[A] Law Enforcement Group Limits
-    - 5.15[B] Non-Criminal Group Limits
-    - 5.15 [C] Business Size Limits
-    - 5.15[D] Criminal Group Limits
-    - 5.15 [E] Gang Size Limits
-- 5.16: Robbery & Heist Rules
-    - 5.16 [A] Heist Guidelines
-    - 5.16 [B] Robbing Players
+## [(5) Roleplay Regulations](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#5-roleplay-regulations-1)
+- [5.01: Stream Sniping](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#501-stream-sniping)
+- [5.02: Metagaming](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#502-metagaming)
+- [5.03: Powergaming](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#503-powergaming)
+- [5.04: Value of Life](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#504-value-of-life)
+- [5.06: RDM/VDM](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#506-rdm-vdm)
+- [5.07: Fail RP](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#507-fail-rp)
+- [5.08: Unrealistic Driving](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#508-unrealistic-driving)
+- [5.09: Combat Logging](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#509-combat-logging)
+- [5.10: Quality of RP](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#510-quality-of-rp)
+- [5.11: Breaking Character](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#511-breaking-character)
+- [5.12: Force RP](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#512-force-rp)
+- [5.13: Rage Quitting](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#513-rage-quitting)
+- [5.14: In-Game Leadership Policies](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#514-in-game-leadership-policies)
+- [5.15: Group Size Limits](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#515-group-size-limits)
+    - [5.15[A] Law Enforcement Group Limits](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#515a-law-enforcement-group-limis)
+    - [5.15[B] Non-Criminal Group Limits](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#515b-non-criminal-group-limits)
+    - [5.15 [C] Business Size Limits](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#515c-business-size-limits)
+    - [5.15[D] Criminal Group Limits](515d-criminal-group-limits)
+    - [5.15 [E] Gang Size Limits](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#515e-gang-size-limits)
+- [5.16: Robbery & Heist Rules](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#516-robbery--heist-rules)
+    - [5.16 [A] Heist Guidelines](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#516a-heist-guidelines)
+    - [5.16 [B] Robbing Players](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#516b-robbing-players)
 
-## (6) Disciplinary Process
-- 6.01: Coaching vs. Suspension
-- 6.02: Excessive Offenses
-- 6.03: Suspensions
-- 6.04: Immediate Membership Removal
-- 6.05: Disciplinary History Record
-- 6.06: Toxic Member Removal Vote
-- 6.07: Member Termination Appeals
-- 6.08: Administrative Character Action(s) [ACA]
+## [(6) Disciplinary Process](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#6-disciplinary-process-1)
+- [6.01: Coaching vs. Suspension](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#601-coaching-vs-suspension)
+- [6.02: Excessive Offenses](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#602-excessive-offenses)
+- [6.03: Suspensions](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#603-suspensions)
+- [6.04: Immediate Membership Removal](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#604-immediate-membership-removal)
+- [6.05: Disciplinary History Record](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#605-discplinary-history-record)
+- [6.06: Toxic Member Removal Vote](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#606-toxic-member-removal-vote)
+- [6.07: Member Termination Appeals](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#607-member-termination-appeals)
+- [6.08: Administrative Character Action(s) [ACA]](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#608-administrative-character-actions-aca)
 
-## (7) Legal Disclaimers & Policies
-- 7.01: Affiliations With Real Life Entities
-- 7.02: Community Ownership
-- 7.03: Entertainment & Fictional Content
-- 7.04: Privacy Policy
-    - 7.04[A]: What We Collect:
-        - User Provided Information
-        - Server Log Data
-        - Cookies
-    - 7.04[B]: How We Utilize Your Data & Information
-    - 7.04[C]:Information Sharing Policy
-    - 7.04[D]:Safeguarding & Security
-    - 7.04[E]:Third-Party Links
-    - 7.05: Legal Disputes
+## [(7) Legal Disclaimers & Policies](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#7-legal-disclaimers--policies-1)
+- [7.01: Affiliations With Real Life Entities](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#701-affiliations-with-real-life-entities)
+- [7.02: Community Ownership](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#702-community-ownership)
+- [7.03: Entertainment & Fictional Content](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#703-entertainment--fictional-content)
+- [7.04: Privacy Policy](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704-privacy-policy)
+    - [7.04[A]: What We Collect:](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704a-what-we-collect)
+    - [7.04[B]: How We Utilize Your Data & Information](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704b-how-we-utilize-your-data--information)
+    - [7.04[C]:Information Sharing Policy](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704c-information-sharing-policy)
+    - [7.04[D]:Safeguarding & Security](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704d-safeguarding--security)
+    - [7.04[E]:Third-Party Links](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#704e-third-party-links)
+    - [7.05: Legal Disputes](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#705-legal-disputes)
 
 
 ## (1) Membership Requirements
@@ -241,7 +238,7 @@ Therefore if you are in any form of elevated position in another community inclu
 
 Additional Policies for Staff & Administration Team Members May Apply (See Handbook) 
 
-### 2.06: Department Applications
+### 2.08: Department Applications
 In order to be eligible to join the various departments that First Rate Roleplay™ has to offer, you must first be a member for at least thirty (30) days as a civilian before you can apply for any of our public safety agencies. The philosophy of First Rate Roleplay™ is that all members of the community should experience the gameserver and roleplay as a civilian before undertaking and upholding the responsibilities and duties of public safety personnel. At the end of the day, the character(s) you portray in these departments all will have off-duty “civilian” lives of their own at the end of the day. This allows us to gauge your roleplay, and get a feel for your capabilities before granting players special positions. 
 
 In order to apply for one of the whitelisted agencies within the community, visit the #department-applications channel of the First Rate Roleplay™ discord server and create a ticket for the department you wish to apply for, you will be provided on screen prompts with the initial application questions which will then be submitted to the department head for review. You will hear back inside of your ticket with further instructions. 
