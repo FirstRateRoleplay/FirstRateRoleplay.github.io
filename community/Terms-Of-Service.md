@@ -19,7 +19,7 @@ THERE ARE NO EXCEPTIONS TO THE RULES & REGULATIONS AT ANY TIME UNDER ANY CIRCUMS
 - [1.04: Leaving the First Rate RP Discord(s)](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#104-leaving-the-first-rate-rp-discords)
 
 - [1.05: Expected Activity](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105-expected-activity)
-
+  
   - [1.05[A]: New Members](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105a-new-members)
 
   - [1.05[B] Existing Members (30 Days)](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html#105b-existing-members-30-days)
