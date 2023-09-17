@@ -15,6 +15,8 @@ Certain navigation links within the menu might not be set up yet.
 
 - [Important Links](https://docs.FirstRateRoleplay.com/community/ImportantLinks.html)
 
+- [Meet Our Team](https://docs.FirstRateRoleplay.com/community/Team.html)
+
 - [Server Guides](https://docs.FirstRateRoleplay.com/server-guides/About-Guides.html)
 
 - [Terms of Service](https://docs.FirstRateRoleplay.com/community/Terms-Of-Service.html)
